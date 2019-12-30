@@ -1,1 +1,1 @@
-github action のテスト用です
+github action のテストリポジトリです
